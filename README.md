@@ -7,7 +7,7 @@ This is an API built with FastAPI that allows you to translate texts using the d
 1. Clone this repo:
 
     ```bash
-   git clone https://
+   git clone https://github.com/icianfi/deepl-translate.git
    ```
 
 2. Install dependencies:
